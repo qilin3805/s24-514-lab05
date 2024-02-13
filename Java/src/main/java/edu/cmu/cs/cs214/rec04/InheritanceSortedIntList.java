@@ -10,7 +10,7 @@ package edu.cmu.cs.cs214.rec04;
  *
  */
 
-public class InheritanceSortedIntList extends SortedIntLinkedList{
+public class InheritanceSortedIntList extends SortedIntList{
     private int count = 0;
 
     /**
